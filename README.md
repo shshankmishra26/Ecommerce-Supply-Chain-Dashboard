@@ -61,7 +61,7 @@ This analysis provided insights that can:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/shreya1m/Ecommerce-Supply-Chain-Analysis-Dashboard-Creation-using-Excel.git
+    git clone https://github.com/shshankmishra26/Ecommerce-Supply-Chain-Dashboard/edit/main/README.md
     ```
 
 2. Open the Excel file `Ecommerce-Supply-Chain-Dashboard.xlsx` to explore the dashboard.
